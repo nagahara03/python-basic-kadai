@@ -1,0 +1,5 @@
+top_side=10
+under_side=20
+height=5
+trapezoid_area=((top_side+under_side)*height/2)
+print(str(trapezoid_area)+"㎠")
