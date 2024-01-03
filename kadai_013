@@ -1,0 +1,5 @@
+def merchandise(money,tax):
+  total_amount = money + money * tax
+  print(f"商品の総額は{total_amount}です")
+
+merchandise(100,0.1)
